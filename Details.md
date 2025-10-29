@@ -71,13 +71,6 @@ We welcome contributions to enhance the **Gaming Industry Research Crew**!
 
 ---
 
-## 📜 License
-
-This project is built on top of **crewAI** and follows the respective licensing terms.  
-Please refer to the **crewAI documentation** for detailed licensing information.
-
----
-
 ## ⚠️ Disclaimer
 
 This tool generates research reports based on publicly available information and AI analysis.  
